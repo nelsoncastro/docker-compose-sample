@@ -7,8 +7,6 @@ services:
       - "1521:1521"
       - "5500:5500"
       - "8080:8080"
-    volumes: 
-      - /Users/nelson/docker/oracle/data:/opt/oracle/oradata
     networks: 
       - oracle-compose-network
     

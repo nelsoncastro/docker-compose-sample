@@ -6,9 +6,7 @@
 
 Nelson Castro – [@nelsonbsbdf](https://twitter.com/nelsonbsbdf) – nelsoncastro.developer@gmail.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/nelsoncastro/github-link](https://github.com/dbader/)
+[https://github.com/nelsoncastro/github-link]
 
 ## Contributing
 

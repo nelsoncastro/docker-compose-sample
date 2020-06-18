@@ -1,5 +1,5 @@
 # Docker Compose Files Samples
-> This repository contains file related to use Docker Compose.
+> This repository contains files related to use Docker Compose.
 
 ![docker-compose](https://user-images.githubusercontent.com/4312368/84962050-3bc0b480-b0dc-11ea-8c55-bc6c04235f63.png)
 

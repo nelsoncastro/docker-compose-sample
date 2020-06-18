@@ -6,8 +6,6 @@
 
 Nelson Castro – [@nelsonbsbdf](https://twitter.com/nelsonbsbdf) – nelsoncastro.developer@gmail.com
 
-[https://github.com/nelsoncastro/github-link]
-
 ## Contributing
 
 1. Fork it (<https://github.com/nelsoncastro/docker-compose-sample/fork>)

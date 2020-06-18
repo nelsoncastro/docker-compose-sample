@@ -1,6 +1,6 @@
 # Docker Compose Files
 
-[docker-compose-image]
+![docker-compose](https://user-images.githubusercontent.com/4312368/84962050-3bc0b480-b0dc-11ea-8c55-bc6c04235f63.png)
 
 ## Meta
 
